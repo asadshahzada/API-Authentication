@@ -1,6 +1,6 @@
 # A Sample of API-Authentication
 
-This code appears to be a test suite written using Cypress, a popular JavaScript end-to-end testing framework for web applications. The test suite consists of three test cases, each testing a different type of authentication method:
+This code is a test suite written using Cypress, a popular JavaScript end-to-end testing framework for web applications. The test suite consists of three test cases, each testing a different type of authentication method:
 
 Basic Authentication:
 
